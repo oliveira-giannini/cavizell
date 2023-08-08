@@ -21,4 +21,4 @@
    <img align="center" alt="nodejs" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Movido pela paixão pela tecnologia, inspirado pela educação e determinado a impactar vidas através do poder da programação.
